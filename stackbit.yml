@@ -372,5 +372,5 @@ models:
         name: section
         label: Section
         options: [Store, About, Home]
-pagesDir:
-staticDir:
+pagesDir: content
+staticDir: static
